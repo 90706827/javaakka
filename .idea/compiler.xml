@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="javaakka" target="1.6" />
+      <module name="javaakka" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
